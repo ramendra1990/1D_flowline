@@ -1,6 +1,6 @@
 numpy==1.20.3
 matplotlib==3.3.4
-PIL==8.3.1
+pillow==8.3.1
 watermark==2.2.0
 keras==2.4.3
 tensorflow==2.2
